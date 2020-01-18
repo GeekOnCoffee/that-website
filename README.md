@@ -37,7 +37,7 @@ Once your PR is reviewed and the specs pass, THAT Crew will give me one last run
 
 #### 4. Style Guide
 
-_Coming soon_
+_Coming soon_ but for now, try and follow the existing style
 
 #### 5. Setting up your environment
 
